@@ -1,0 +1,9 @@
+
+{
+  "name": "PRENAS INVERSIONES S.L.",
+  "description": "Profesionální poradenství a realitní služby ve Španělsku pro české klienty.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
